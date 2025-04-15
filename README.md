@@ -1,4 +1,4 @@
-    PROJECT OVERVIEW
+    project Overview
    
     
     FAKE NEWS DETECTION
