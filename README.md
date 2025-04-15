@@ -1,7 +1,8 @@
     project Overview
    
     
-    FAKE NEWS DETECTION
+    
+	FAKE NEWS DETECTION
 This project aims to build a machine learning model that can automatically detect fake news articles based on their content. With the growing spread of misinformation online, especially through social media, it's crucial to develop tools that help identify unreliable or deceptive information.
    
    
